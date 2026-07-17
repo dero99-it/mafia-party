@@ -1,0 +1,6 @@
+{
+  "name": "Mafia Party",
+  "description": "A premium, super-fast modern party game. Play Mafia instantly on a single device with your friends in pass-and-play mode.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
